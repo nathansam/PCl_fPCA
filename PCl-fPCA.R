@@ -9,7 +9,7 @@
 #
 #
 #
-load(fPCA_data)
+load("fPCA_data.RData")
 require(rjags)
 #
 #1) datalist
